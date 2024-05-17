@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-draft: ''
+draft: false
 file: /gdrive_uploads/test20/1KO9nvBZXQ3epLtChjcPPWR2kQNqjphS7/sample-video.mp4
 file_size: 750369
 metadata:
